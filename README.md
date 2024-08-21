@@ -27,4 +27,4 @@ Continue your exploration of Tableau's advanced visualization capabilities using
 5. **Story**: Synthesize your analysis into a Tableau story. Construct a narrative that guides viewers through your key findings, providing context and insights drawn from the visualizations.
 
 Solution link:
-https://public.tableau.com/app/profile/carlos.ndembo/viz/CustomersbyState_17241743929380/Dashboard_advanced
+https://public.tableau.com/app/profile/carlos.ndembo/viz/CustomerandVehiclesAnalysis/Dashboard_advanced
